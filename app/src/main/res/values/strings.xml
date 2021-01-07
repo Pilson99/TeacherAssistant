@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TeacherAssistant</string>
+    <string name="defaultCourseName">Nazwa zajęć</string>
+    <string name="defaultStudentName">Imię Nazwisko</string>
+    <string name="coursesButtonText">Zajęcia</string>
+    <string name="reportButtonText">Raport</string>
+    <string name="addButtonText">+</string>
+    <string name="editButtonText">EDYTUJ</string>
+    <string name="saveButtonText">ZAPISZ</string>
+    <string name="deleteButtonText">✕</string>
+    <string name="backButtonDescription">Back button</string>
+    <string name="coursesLabel">ZAJĘCIA</string>
+    <string name="studentsLabel">STUDENCI</string>
+    <string name="studentLabel">STUDENT</string>
+    <string name="addStudentLabel">NOWY STUDENT</string>
+    <string name="editStudentLabel">EDYTUJ STUDENTA</string>
+    <string name="editStudentText">Wprowadź nowe imię studenta</string>
+    <string name="addCourseLabel">DODAJ ZAJĘCIA</string>
+    <string name="editCourseLabel">EDYTUJ ZAJĘCIA</string>
+    <string name="editCourseText">Wprowadź nową nazwę zajęć</string>
+    <string name="addGradeLabel">NOWA OCENA</string>
+    <string name="reportLabel">RAPORT</string>
+    <string name="namePlaceholder">Nazwa</string>
+    <string name="studentNamePlaceholder">Imię</string>
+    <string name="gradePlaceholder">Ocena</string>
+    <string name="notePlaceholder">Notatka</string>
+    <string name="addCourseText">Wprowadź nazwę zajęć</string>
+    <string name="addStudentText">Wprowadź imię studenta</string>
+    <string name="addGradeText">Wprowadź ocenę</string>
+</resources>
